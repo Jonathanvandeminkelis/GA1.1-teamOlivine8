@@ -1,0 +1,1 @@
+subteamb: function subtracts writing subtract(a,b) subtracts b from a
